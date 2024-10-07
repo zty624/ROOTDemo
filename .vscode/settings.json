@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "*.cpp": "cpp",
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "C_Cpp.default.includePath": [
+        "${default}",
+        "/mnt/shared/Ubuntu/miniconda3/envs/ROOT/include"
+    ],
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}
